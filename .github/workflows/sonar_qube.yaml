@@ -5,6 +5,7 @@ on:
       - main
       - master
       - develop
+      - test-SonarQube
       - 'releases/**'
   pull_request:
       types: [opened, synchronize, reopened]
