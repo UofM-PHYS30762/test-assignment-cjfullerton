@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++11",
+      "-Wall",
+      "-o",
+      "monte_carlo_pi",
+      "monte_carlo_pi.cpp"
+    ],
+    "directory": "/Users/user/Documents/RTP-333/test-assignment-cjfullerton/code_for_testing/monte_carlo_pi_test",
+    "file": "/Users/user/Documents/RTP-333/test-assignment-cjfullerton/code_for_testing/monte_carlo_pi_test/monte_carlo_pi.cpp",
+    "output": "/Users/user/Documents/RTP-333/test-assignment-cjfullerton/code_for_testing/monte_carlo_pi_test/monte_carlo_pi"
+  }
+]
